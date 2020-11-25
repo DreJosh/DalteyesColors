@@ -1,0 +1,17 @@
+{
+  "name": "DateyeColors",
+  "version": "3.0",
+  "manifest_version": 2,
+  "description": "Uma aplicação para que todos veja a melhor parte da vida",
+  "icons": {
+    "16": "images/icon.png"
+  },
+  "browser_action": {
+    "default_title": "DateyeColors",
+    "default_popup": "PagExtensao/index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
