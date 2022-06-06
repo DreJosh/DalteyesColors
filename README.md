@@ -1,3 +1,2 @@
 # DalteyeColors
-Uma expansão para navegadoredores
-Voltada para os daltonicos 
+Uma extensão para auxiliar daltonicos.
